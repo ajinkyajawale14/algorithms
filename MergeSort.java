@@ -47,3 +47,14 @@ public class MergeSort{
 		
 	}
 }
+/* output:-
+-34
+-24
+-5
+0
+2
+23
+56
+99
+
+*/
